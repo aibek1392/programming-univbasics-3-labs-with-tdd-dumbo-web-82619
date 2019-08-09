@@ -1,4 +1,5 @@
 # Add your variables here
 first_number = 5
-second_number = 7
-sum = 12
+second_number = 4
+sum = 9
+difference = 
